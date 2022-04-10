@@ -314,7 +314,7 @@
   h5 { font-size: 18px; line-height: 30px; }
   h6 { font-size: 14px; line-height: 30px; }
   a.omnilogic { color: #000000 !important }
-  a.globo { color: #1740EE !important }
+  a.globo { color: #FF3219 !important }
   a.disney { color: #020F41 !important }
   a.shopify { color: #96BF46 !important }
   p { margin: 0 0 30px 0; }
@@ -323,7 +323,7 @@
     font: 19px/36px 'opensans-bold', sans-serif;
   }
   p.subhead {
-    font: 12px/32px 'opensans-bold', sans-serif;
+    font: 13px/32px 'opensans-bold', sans-serif;
   }
 
   /* for 'em' and 'strong' tags, font-size and line-height should be same with
